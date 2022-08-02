@@ -1,0 +1,25 @@
+.test {
+    min-height: 100vh;
+    height: 100%;
+    width: 100;
+    background-color: #FF2E63;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_container {
+    color: #fff;
+    text-align: center;
+
+    h1 {
+        font-size: 3rem;
+        line-height: 145%;
+    }
+
+    a {
+        color: inherit;
+        // text-decoration: none;
+        font-size: 1.4rem;
+    }
+}
